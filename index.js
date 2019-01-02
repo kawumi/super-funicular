@@ -1,2 +1,3 @@
-console.log('github pls');
+const foo = 'github pls';
+console.log(foo);
 
